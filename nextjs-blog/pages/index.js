@@ -1,5 +1,5 @@
 
-import Comments from './Comments';
+import Comments from './components/Comments';
 
 const Home = () => {
     return (
@@ -11,3 +11,6 @@ const Home = () => {
 };
 
 export default Home;
+
+
+
